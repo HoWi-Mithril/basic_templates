@@ -1,2 +1,2 @@
-# basic_templates
-Basic Templates for fast starting new project 
+New Project 
+For testing draft template
