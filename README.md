@@ -1,2 +1,3 @@
-New Project 
-For testing draft template
+Basic Templates 
+
+For fast starting new projects
